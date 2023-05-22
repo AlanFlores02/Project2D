@@ -1,0 +1,1246 @@
+﻿Log file open, 05/21/23 13:08:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18464)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project2D
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Yosef\OneDrive\Documents\GitHub\Project2D\Project2D.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="7d3b2c8d4b0242e51afb49b5b2a34148"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.271251
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-14DC8C0E4E92CEE53468678309AFACCB
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.21-20.08.17:604][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.21-20.08.17:604][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.21-20.08.17:604][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.21-20.08.17:606][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.21-20.08.17:607][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.21-20.08.17:621][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.21-20.08.17:621][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.05.21-20.08.17:787][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.21-20.08.17:787][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8072MB of shared system memory, 1 output[s]
+[2023.05.21-20.08.17:837][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.21-20.08.17:837][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8072MB of shared system memory, 0 output[s]
+[2023.05.21-20.08.17:842][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.05.21-20.08.17:842][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8072MB of shared system memory, 0 output[s]
+[2023.05.21-20.08.17:842][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.21-20.08.17:842][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.21-20.08.17:842][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.21-20.08.17:842][  0]LogHAL: Display: Platform has ~ 16 GB [16929984512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.21-20.08.17:842][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.21-20.08.17:842][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.21-20.08.17:842][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.21-20.08.17:842][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.21-20.08.17:842][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.21-20.08.17:843][  0]LogInit: Computer: DESKTOP-VF80FP6
+[2023.05.21-20.08.17:843][  0]LogInit: User: Yosef
+[2023.05.21-20.08.17:843][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.05.21-20.08.17:843][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.21-20.08.17:843][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.05.21-20.08.17:843][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.21-20.08.17:843][  0]LogMemory: Process Physical Memory: 278.90 MB used, 281.84 MB peak
+[2023.05.21-20.08.17:843][  0]LogMemory: Process Virtual Memory: 239.05 MB used, 239.05 MB peak
+[2023.05.21-20.08.17:843][  0]LogMemory: Physical Memory: 7918.60 MB used,  8227.09 MB free, 16145.69 MB total
+[2023.05.21-20.08.17:843][  0]LogMemory: Virtual Memory: 10672.75 MB used,  8928.95 MB free, 19601.69 MB total
+[2023.05.21-20.08.17:843][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.21-20.08.17:947][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.21-20.08.17:960][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.21-20.08.17:960][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.05.21-20.08.17:960][  0]LogInit: Using OS detected locale (es-MX).
+[2023.05.21-20.08.18:128][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.21-20.08.18:138][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.21-20.08.18:138][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.05.21-20.08.18:138][  0]LogWindowsTextInputMethodSystem:   - Español (México) - (Keyboard).
+[2023.05.21-20.08.18:138][  0]LogWindowsTextInputMethodSystem:   - Español (México) - Corrección de entrada táctil (TSF IME).
+[2023.05.21-20.08.18:138][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2023.05.21-20.08.18:150][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.21-20.08.18:150][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.21-20.08.18:279][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.21-20.08.18:282][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.05.21-20.08.18:282][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.05.21-20.08.18:362][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.05.21-20.08.18:395][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.05.21-20.08.18:401][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.05.21-20.08.18:409][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.05.21-20.08.18:424][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.21-20.08.18:424][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.21-20.08.18:470][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.21-20.08.18:470][  0]LogWindows: Attached monitors:
+[2023.05.21-20.08.18:470][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.21-20.08.18:470][  0]LogWindows: Found 1 attached monitors.
+[2023.05.21-20.08.18:470][  0]LogWindows: EnumDisplayDevices:
+[2023.05.21-20.08.18:470][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.21-20.08.18:470][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.21-20.08.18:470][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.21-20.08.18:471][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.21-20.08.18:471][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.05.21-20.08.18:471][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.05.21-20.08.18:471][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.05.21-20.08.18:471][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.05.21-20.08.18:471][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.05.21-20.08.18:471][  0]LogD3D12RHI:   Driver Version: 527.37 (internal:31.0.15.2737, unified:527.37)
+[2023.05.21-20.08.18:471][  0]LogD3D12RHI:      Driver Date: 11-26-2022
+[2023.05.21-20.08.18:472][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2023.05.21-20.08.18:472][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.21-20.08.18:472][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.21-20.08.18:487][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.05.21-20.08.18:492][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Project2D.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Project2D.uproject"  -platform=all'
+[2023.05.21-20.08.18:492][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Project2D.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Project2D.uproject"  -platform=all" ]
+[2023.05.21-20.08.18:519][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.21-20.08.18:534][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.21-20.08.18:534][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.21-20.08.18:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.21-20.08.18:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.21-20.08.18:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.21-20.08.18:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.21-20.08.18:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.21-20.08.18:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.21-20.08.18:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.21-20.08.18:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.21-20.08.18:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.21-20.08.18:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.21-20.08.18:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.21-20.08.18:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.21-20.08.18:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.21-20.08.18:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.21-20.08.18:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.21-20.08.18:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.21-20.08.18:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.21-20.08.18:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.21-20.08.18:588][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.21-20.08.18:594][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.21-20.08.18:597][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.21-20.08.18:597][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.21-20.08.18:597][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.21-20.08.18:597][  0]LogTargetPlatformManager:   PCM
+[2023.05.21-20.08.18:599][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.21-20.08.18:599][  0]LogTargetPlatformManager:   BINKA
+[2023.05.21-20.08.18:599][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.21-20.08.18:599][  0]LogTargetPlatformManager:   OGG
+[2023.05.21-20.08.18:599][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.21-20.08.18:599][  0]LogTargetPlatformManager:   OPUS
+[2023.05.21-20.08.18:683][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.21-20.08.18:688][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.21-20.08.18:691][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.21-20.08.18:691][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.21-20.08.18:691][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.21-20.08.18:691][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.21-20.08.18:691][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.21-20.08.18:692][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.21-20.08.18:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.21-20.08.18:694][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.21-20.08.18:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.21-20.08.18:694][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.21-20.08.18:718][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.21-20.08.18:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.21-20.08.18:718][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.21-20.08.18:727][  0]LogDerivedDataCache: Speed tests for C:/Users/Yosef/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.05.21-20.08.18:727][  0]LogDerivedDataCache: Display: Performance to C:/Users/Yosef/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=750.60MBs, RandomWriteSpeed=122.68MBs. Assigned SpeedClass 'Local'
+[2023.05.21-20.08.18:731][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yosef/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.21-20.08.18:731][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.21-20.08.18:731][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.21-20.08.18:739][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.21-20.08.18:739][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.21-20.08.18:740][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Intermediate/Shaders/WorkingDirectory/5556/).
+[2023.05.21-20.08.18:740][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yosef/AppData/Local/Temp/UnrealShaderWorkingDir/352135204D36703A8AD4BDB6F1D0E920/'.
+[2023.05.21-20.08.18:740][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.21-20.08.18:740][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.05.21-20.08.20:146][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.21-20.08.20:146][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.21-20.08.20:147][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.21-20.08.20:188][  0]LogAssetRegistry: FAssetRegistry took 0.0134 seconds to start up
+[2023.05.21-20.08.20:196][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.21-20.08.20:401][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.21-20.08.20:402][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.21-20.08.20:707][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.21-20.08.20:707][  0]LogDeviceProfileManager: Active device profile: [00000A67C5A85780][00000A67B9F82800 50] WindowsEditor
+[2023.05.21-20.08.20:707][  0]LogDeviceProfileManager: Profiles: [00000A67C5A85940][00000A67A7F25000 50] Windows, [00000A67C5A85780][00000A67B9F82800 50] WindowsEditor, [00000A67C5A83480][00000A67B9F1A000 50] WindowsServer, [00000A67C5A85240][00000A67C5CB0000 50] WindowsClient, [00000A67C5A82F40][00000A67C5CB5000 50] IOS, [00000A67C5A84D00][00000A67C5CB7800 50] iPadAir2, [00000A67C5A86900][00000A67C5CBC800 50] IPadPro, [00000A67C5A86C80][00000A67C5CBA000 50] iPadAir3, [00000A67C5A863C0][00000A67BBCC2800 50] iPadAir4, [00000A67C5A81340][00000A67C5D00000 50] iPadMini4, [00000A67C5A82BC0][00000A67C5D05000 50] iPadMini5, [00000A67C5A85E80][00000A67C5D07800 50] iPadMini6, [00000A67C5A894C0][00000A67C5CB2800 50] iPhone6S, [00000A67C5A89840][00000A67C5D0C800 50] iPhone7, [00000A67C5A89BC0][00000A67C5D0A000 50] iPodTouch7, [00000A67C5A87A80][00000A67C5D10000 50] iPhone6SPlus, [00000A67C5A840C0][00000A67C5D15000 50] iPhone7Plus, [00000A67C5A83640][00000A67C5D17800 50] iPhoneSE, [00000A67C5A88180][00000A67C5D1A000 50] iPhone8, [00000A67C5A84280][00000A67C5D1C800 50] iPhone8Plus, [00000A67C5A86040][00000A67C5D02800 50] iPhoneX, [00000A67C5A89680][00000A67C5D90000 50] iPhoneXS, [00000A67C5A82D80][00000A67C5D95000 50] iPhoneXSMax, [00000A67C5A878C0][00000A67C5D97800 50] iPhoneXR, [00000A67C5A86E40][00000A67C5D9A000 50] iPhone11, [00000A67C5A87C40][00000A67C5D9C800 50] iPhone11Pro, [00000A67C5A82680][00000A67C5D12800 50] iPhone11ProMax, [00000A67C5A84440][00000A67C5DA0000 50] iPhoneSE2, [00000A67C5A87000][00000A67C5DA5000 50] iPhone12Mini, [00000A67C5A832C0][00000A67C5DA7800 50] iPhone12, [00000A67C5A85400][00000A67C5DAA000 50] iPhone12Pro, [00000A67C5A89140][00000A67C5DAC800 50] iPhone12ProMax, [00000A67C5A82300][00000A67C5D92800 50] iPhone13Mini, [00000A67C5A83800][00000A67C5D30000 50] iPhone13, [00000A67C5A81C00][00000A67C5D35000 50] iPhone13Pro, [00000A67C5A87700][00000A67C5D37800 50] iPhone13ProMax, [00000A67C5A84EC0][00000A67C5D3A000 50] iPadPro105, [00000A67C5A86AC0][00000A67C5D3C800 50] iPadPro129, [00000A67C5A88A40][00000A67C5DA2800 50] iPadPro97, [00000A67C5A824C0][00000A67C5D40000 50] iPadPro2_129, [00000A67C5A89300][00000A67C5D45000 50] iPad5, [00000A67C5A86580][00000A67C5D47800 50] iPad6, [00000A67C5A886C0][00000A67C5D4A000 50] iPad7, [00000A67C5A82A00][00000A67C5D4C800 50] iPad8, [00000A67C5A847C0][00000A67C5D32800 50] iPad9, [00000A67C5A839C0][00000A67C5D50000 50] iPadPro11, [00000A67C5A81DC0][00000A67C5D55000 50] iPadPro2_11, [00000A67C5A88340][00000A67C5D57800 50] iPadPro3_11, [00000A67C5A86740][00000A67C5D5A000 50] iPadPro3_129, [00000A67C5A84600][00000A67C5D5C800 50] iPadPro4_129, [00000A67C5A87380][00000A67C5D42800 50] iPadPro5_129, [00000A67C5A88DC0][00000A67C5D60000 50] AppleTV, [00000A67C5A83F00][00000A67C5D65000 50] AppleTV4K, [00000A67C5A87E00][00000A67C5D67800 50] TVOS, [00000A67C5A8B980][00000A67C5D6C800 50] Mac, [00000A67C5A8B7C0][00000A67C5D6A000 50] MacEditor, [00000A67C5A84B40][00000A67C5D52800 50] MacClient, [00000A67C5A8B280][00000A67C5D70000 50] MacServer, [00000A67C5A8C080][00000A67C5D77800 50] Linux, [00000A67C5A8C400][00000A67C5D75000 50] LinuxEditor, [00000A67C5A81180][00000A67C5D7A000 50] LinuxArm64Editor, [00000A67C5A82140][00000A67C5D7C800 50] LinuxArm64, [00000A67C5A8A480][00000A67C5D62800 50] LinuxClient, [00000A67C5A89F40][00000A67C5DC0000 50] LinuxArm64Client, [00000A67C5A8BEC0][00000A67C5DC5000 50] LinuxServer, [00000A67C5A89D80][00000A67C5DC7800 50] LinuxArm64Server, [00000A67C5A83D40][00000A67C5DCA000 50] Android, [00000A67C5A8BB40][00000A67C5DCC800 50] Android_Preview_OpenGL, [00000A67C5A82840][00000A67C5D72800 50] Android_Preview_Vulkan, [00000A67C5A8AF00][00000A67C5DD0000 50] Android_Low, [00000A67C5A8B0C0][00000A67C5DD5000 50] Android_Mid, [00000A67C5A8AD40][00000A67C5DD7800 50] Android_High, [00000A67C5A8C780][00000A67C5DDA000 50] Android_Default, [00000A67C5A87540][00000A67C5DDC800 50] Android_Adreno4xx, [00000A67C5A8CB00][00000A67C5DC2800 50] Android_Adreno5xx_Low, [00000A67C5A8AB80][00000A67C5DE0000 50] Android_Adreno5xx, [00000A67C5A8B440][00000A67C5DE5000 50] Android_Adreno6xx, [00000A67C5A8A9C0][00000A67C5DE7800 50] Android_Adreno6xx_Vulkan, [00000A67C5A88500][00000A67C5DEA000 50] Android_Adreno7xx, [00000A67C5A8B600][00000A67C5DEC800 50] Android_Adreno7xx_Vulkan, [00000A67C5A85080][00000A67C5DD2800 50] Android_Mali_T6xx, [00000A67C5A89A00][00000A67C5DF0000 50] Android_Mali_T7xx, [00000A67C5A8A100][00000A67C5DF5000 50] Android_Mali_T8xx, [00000A67C5A8C940][00000A67C5DF7800 50] Android_Mali_G71, [00000A67C5A88880][00000A67C5DFA000 50] Android_Mali_G72, [00000A67C5A83100][00000A67C5DFC800 50] Android_Mali_G72_Vulkan, [00000A67C5A85CC0][00000A67C5DE2800 50] Android_Mali_G76, [00000A67C5A87FC0][00000A67C5E00000 50] Android_Mali_G76_Vulkan, [00000A67C5A871C0][00000A67C5E05000 50] Android_Mali_G77, [00000A67C5A8C5C0][00000A67C5E07800 50] Android_Mali_G77_Vulkan, [00000A67C5A81F80][00000A67C5E0A000 50] Android_Mali_G78, [00000A67C5A8D3C0][00000A67C5E0C800 50] Android_Mali_G78_Vulkan, [00000A67C5A8D580][00000A67C5DF2800 50] Android_Mali_G710, [00000A67C5A855C0][00000A67C5E10000 50] Android_Mali_G710_Vulkan, [00000A67C5A8DAC0][00000A67C5E15000 50] Android_Xclipse_920, [00000A67C5A8CCC0][00000A67C5E17800 50] Android_Xclipse_920_Vulkan, [00000A67C5A8A800][00000A67C5E1A000 50] Android_Vulkan_SM5, [00000A67C5A88C00][00000A67C5E1C800 50] Android_PowerVR_G6xxx, [00000A67C5A83B80][00000A67C5E02800 50] Android_PowerVR_GT7xxx, [00000A67C5A8CE80][00000A67C5E20000 50] Android_PowerVR_GE8xxx, [00000A67C5A8E540][00000A67C5E25000 50] Android_PowerVR_GM9xxx, [00000A67C5A81500][00000A67C5E27800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A67C5A8E8C0][00000A67C5E2A000 50] Android_TegraK1, [00000A67C5A8EA80][00000A67C5E2C800 50] Android_Unknown_Vulkan, [00000A67C5A8D040][00000A67C5E12800 50] Oculus_Quest, [00000A67C5A8DC80][00000A67C5E30000 50] Oculus_Quest2, [00000A67C5A8A2C0][00000A67C5E35000 50] HoloLens, 
+[2023.05.21-20.08.20:707][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.21-20.08.20:714][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2023.05.21-20.08.20:714][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.05.21-20.08.20:714][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.21-20.08.20:714][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.21-20.08.20:714][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.21-20.08.20:734][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.21-20.08.20:931][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.21-20.08.20:931][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.21-20.08.20:931][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.21-20.08.20:931][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.21-20.08.20:931][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.21-20.08.20:948][  0]LogNetVersion: Project2D 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 654147736)
+[2023.05.21-20.08.21:084][  0]LogSlate: Border
+[2023.05.21-20.08.21:084][  0]LogSlate: BreadcrumbButton
+[2023.05.21-20.08.21:084][  0]LogSlate: Default
+[2023.05.21-20.08.21:084][  0]LogSlate: Icons.Save
+[2023.05.21-20.08.21:084][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.21-20.08.21:084][  0]LogSlate: ListView
+[2023.05.21-20.08.21:084][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.21-20.08.21:084][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.21-20.08.21:084][  0]LogSlate: TableView.DarkRow
+[2023.05.21-20.08.21:084][  0]LogSlate: TableView.Row
+[2023.05.21-20.08.21:084][  0]LogSlate: TreeView
+[2023.05.21-20.08.21:283][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.21:312][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.21:312][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.21:432][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.21-20.08.21:432][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.05.21-20.08.21:432][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.21-20.08.21:779][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1AC6F14C492B15C95F15359489930320 | Instance: B665BC344A8A7C9C6C1ECBAA0004D06C (DESKTOP-VF80FP6-5556).
+[2023.05.21-20.08.21:847][  0]LogPython: Using Python 3.9.7
+[2023.05.21-20.08.22:640][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.21-20.08.22:645][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.21-20.08.22:712][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.22:714][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.22:722][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.22:726][  0]LogUProjectInfo: Found projects:
+[2023.05.21-20.08.23:000][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.21-20.08.23:025][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.21-20.08.23:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.21-20.08.23:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.21-20.08.23:129][  0]LogCollectionManager: Loaded 0 collections in 0.001351 seconds
+[2023.05.21-20.08.23:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Collections/' took 0.00s
+[2023.05.21-20.08.23:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Developers/Yosef/Collections/' took 0.00s
+[2023.05.21-20.08.23:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Collections/' took 0.00s
+[2023.05.21-20.08.23:266][  0]LogEngine: Initializing Engine...
+[2023.05.21-20.08.23:279][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.21-20.08.23:280][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.21-20.08.23:521][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.21-20.08.23:522][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.21-20.08.23:531][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-20.08.23:560][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.21-20.08.23:561][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.21-20.08.23:581][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.21-20.08.23:582][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.21-20.08.23:582][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.21-20.08.23:583][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.21-20.08.23:583][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.21-20.08.23:583][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.21-20.08.23:583][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.21-20.08.23:583][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.21-20.08.23:583][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.21-20.08.23:583][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.21-20.08.23:589][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.21-20.08.23:795][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Realtek(R) Audio)
+[2023.05.21-20.08.23:795][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.21-20.08.23:797][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.21-20.08.23:797][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.21-20.08.23:798][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.21-20.08.23:798][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.05.21-20.08.23:799][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.21-20.08.23:799][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.21-20.08.23:799][  0]LogInit: FAudioDevice initialized.
+[2023.05.21-20.08.23:799][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.21-20.08.23:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.21-20.08.23:799][  0]LogInit: Texture streaming: Enabled
+[2023.05.21-20.08.23:833][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.21-20.08.23:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.21-20.08.23:865][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.21-20.08.23:870][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.05.21-20.08.23:870][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.05.21-20.08.25:078][  0]LogLiveCoding: Display: First instance in process group "UE_Project2D_0x0400b89b", spawning console
+[2023.05.21-20.08.25:078][  0]LogLiveCoding: Display: Waiting for server
+[2023.05.21-20.08.25:078][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.05.21-20.08.25:103][  0]LogInit: Transaction tracking system initialized
+[2023.05.21-20.08.25:188][  0]BlueprintLog: New page: Editor Load
+[2023.05.21-20.08.25:402][  0]LocalizationService: Localization service is disabled
+[2023.05.21-20.08.25:456][  0]TimingProfiler: Initialize
+[2023.05.21-20.08.25:456][  0]TimingProfiler: OnSessionChanged
+[2023.05.21-20.08.25:456][  0]LoadingProfiler: Initialize
+[2023.05.21-20.08.25:456][  0]LoadingProfiler: OnSessionChanged
+[2023.05.21-20.08.25:456][  0]NetworkingProfiler: Initialize
+[2023.05.21-20.08.25:456][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.21-20.08.25:456][  0]MemoryProfiler: Initialize
+[2023.05.21-20.08.25:456][  0]MemoryProfiler: OnSessionChanged
+[2023.05.21-20.08.26:202][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/' took 0.00s
+[2023.05.21-20.08.26:202][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.21-20.08.26:289][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.21-20.08.26:291][  0]SourceControl: Source control is disabled
+[2023.05.21-20.08.26:291][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.099
+[2023.05.21-20.08.26:291][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.21-20.08.26:291][  0]LightingResults: New page: Lighting Build
+[2023.05.21-20.08.26:299][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-20.08.26:299][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-20.08.26:299][  0]MapCheck: New page: Map Check
+[2023.05.21-20.08.26:299][  0]LightingResults: New page: Lighting Build
+[2023.05.21-20.08.26:306][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.21-20.08.26:310][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.21-20.08.26:348][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.05.21-20.08.26:355][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-20.08.26:355][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.05.21-20.08.26:356][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.21-20.08.26:356][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.21-20.08.26:617][  0]LogWorldPartition: Display: WorldPartition initialize took 261 ms
+[2023.05.21-20.08.26:810][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.21-20.08.26:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.21-20.08.26:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.21-20.08.26:829][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.585ms to complete.
+[2023.05.21-20.08.26:829][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.539
+[2023.05.21-20.08.26:843][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.651
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: ================================================
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.21-20.08.26:844][  0]LogShaderCompilers: Display: ================================================
+[2023.05.21-20.08.26:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-20.08.26:937][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-20.08.26:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-20.08.26:949][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.21-20.08.26:996][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:996][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:996][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:996][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:997][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:997][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:997][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:997][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:998][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:998][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:998][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:998][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:999][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:999][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.26:999][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.21-20.08.26:999][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.27:000][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.21-20.08.27:000][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.27:000][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.21-20.08.27:000][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.21-20.08.27:000][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.21-20.08.27:501][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.21-20.08.27:504][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.21-20.08.27:505][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.21-20.08.27:524][  0]LogViewport: Scene viewport resized to 1247x858, mode Windowed.
+[2023.05.21-20.08.28:214][  0]LogStall: Startup...
+[2023.05.21-20.08.28:216][  0]LogStall: Startup complete.
+[2023.05.21-20.08.28:254][  0]LogLoad: (Engine Initialization) Total time: 13.06 seconds
+[2023.05.21-20.08.28:254][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.21-20.08.28:293][  0]LogAssetRegistry: Asset discovery search completed in 8.1060 seconds
+[2023.05.21-20.08.28:297][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.21-20.08.28:298][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.21-20.08.28:339][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.21-20.08.28:611][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/' took 0.32s
+[2023.05.21-20.10.19:379][332]LogDerivedDataCache: C:/Users/Yosef/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.333 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.21-20.10.52:153][556]AssetReimport: New page: Outstanding source content changes 6:10:52
+[2023.05.21-20.10.52:168][556]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.21-20.10.55:682][788]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.21-20.10.55:688][788]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.21-20.11.51:956][896]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Yosef\OneDrive\Pictures\Homework\Tileset.png)
+[2023.05.21-20.11.51:962][896]LogTexture: Display: Building textures: /Game/Floor/Tileset.Tileset (TFO_AutoDXT, 576X576 X1X1) (Required Memory Estimate: 6.328125 MB), EncodeSpeed: Fast
+[2023.05.21-20.11.51:962][896]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2023.05.21-20.12.04:278][884]LogContentBrowser: Deferred new asset file creation: NewPaperTileSet
+[2023.05.21-20.12.04:286][884]LogContentBrowser: Creating deferred item: NewPaperTileSet
+[2023.05.21-20.12.04:296][885]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperTileSet).
+[2023.05.21-20.12.11:821][399]LogContentBrowser: Attempting asset rename: NewPaperTileSet -> TileSet_Floor
+[2023.05.21-20.12.11:844][399]LogContentBrowser: End creating deferred item NewPaperTileSet
+[2023.05.21-20.12.13:401][509]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Floor/TileSet_Floor.TileSet_Floor
+[2023.05.21-20.12.13:403][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-20.12.13:455][509]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.21-20.12.13:456][509]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2023.05.21-20.12.13:475][509]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2023.05.21-20.13.30:169][218]Cmd: TRANSACTION UNDO
+[2023.05.21-20.13.30:169][218]LogEditorTransaction: Undo Add Box Shape
+[2023.05.21-20.13.39:907][334]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:907][334]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:928][335]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:936][336]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:945][337]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:953][338]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:961][339]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:970][340]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:971][340]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:981][341]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:989][342]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.39:998][343]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:006][344]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:014][345]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:023][346]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:031][347]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:040][348]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:048][349]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:056][350]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:064][351]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:073][352]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:081][353]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:090][354]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:098][355]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:110][356]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:116][357]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:125][358]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:133][359]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:141][360]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:150][361]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:159][362]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:167][363]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:175][364]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:184][365]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:191][366]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:199][367]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:207][368]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:216][369]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:224][370]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:233][371]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:241][372]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:249][373]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:257][374]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:266][375]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:274][376]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:283][377]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:291][378]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:299][379]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:307][380]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:316][381]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:325][382]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:333][383]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:341][384]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:349][385]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:357][386]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:366][387]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:374][388]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:382][389]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:391][390]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:399][391]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:407][392]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:416][393]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:424][394]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:433][395]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:441][396]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:450][397]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:458][398]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:466][399]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:474][400]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:482][401]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:491][402]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:499][403]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:507][404]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:516][405]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:524][406]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:533][407]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:541][408]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:549][409]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:558][410]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:566][411]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:575][412]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:583][413]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:591][414]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:600][415]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:608][416]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:617][417]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:625][418]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:633][419]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:641][420]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:649][421]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:658][422]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:666][423]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:675][424]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:683][425]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:691][426]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:700][427]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:708][428]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:716][429]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:725][430]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:733][431]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:741][432]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:750][433]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:758][434]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:767][435]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:775][436]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:784][437]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:792][438]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:800][439]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:808][440]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:817][441]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:825][442]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:833][443]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.13.40:841][444]Cmd: TRANSACTION UNDO
+[2023.05.21-20.13.40:841][444]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.13.41:543][485]Cmd: TRANSACTION UNDO
+[2023.05.21-20.13.41:543][485]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.13.43:188][678]Cmd: TRANSACTION UNDO
+[2023.05.21-20.13.43:188][678]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.13.43:914][764]Cmd: TRANSACTION UNDO
+[2023.05.21-20.13.43:915][764]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.16.39:499][619]Cmd: MODE GRID=0
+[2023.05.21-20.17.10:290][460]Cmd: MODE GRID=1
+[2023.05.21-20.17.30:695][680]Cmd: MODE GRID=0
+[2023.05.21-20.17.47:298][673]Cmd: MODE GRID=1
+[2023.05.21-20.19.23:536][436]Cmd: MODE GRID=0
+[2023.05.21-20.23.00:237][395]Cmd: MODE GRID=1
+[2023.05.21-20.23.39:575][746]Cmd: MODE GRID=0
+[2023.05.21-20.24.15:253][880]Cmd: MODE GRID=1
+[2023.05.21-20.24.43:400][563]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:401][563]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:423][564]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:440][565]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:456][566]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:457][566]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:473][567]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:490][568]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:506][569]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:523][570]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:539][571]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:556][572]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:573][573]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:589][574]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:606][575]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:623][576]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:640][577]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:656][578]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:673][579]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:690][580]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:706][581]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:723][582]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:739][583]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:756][584]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:773][585]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:790][586]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:806][587]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:823][588]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:839][589]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:856][590]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:873][591]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:890][592]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:906][593]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:923][594]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:940][595]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:957][596]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:973][597]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.43:989][598]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:006][599]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:023][600]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:040][601]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:057][602]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:073][603]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:089][604]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:106][605]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:123][606]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:139][607]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:156][608]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:173][609]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:190][610]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:206][611]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:222][612]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:239][613]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:256][614]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:273][615]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:290][616]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:306][617]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:323][618]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:339][619]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:356][620]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:373][621]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:389][622]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:405][623]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:422][624]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:439][625]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:456][626]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:473][627]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:489][628]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:506][629]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:523][630]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:539][631]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:556][632]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:573][633]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:590][634]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:607][635]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:623][636]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:639][637]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:656][638]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:672][639]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:689][640]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:706][641]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:723][642]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:739][643]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:756][644]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:773][645]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:789][646]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:806][647]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.44:822][648]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.44:822][648]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.45:162][660]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.45:162][660]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.47:535][796]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.47:535][796]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.54:874][235]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:875][235]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:896][236]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:914][237]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:930][238]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:946][239]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:946][239]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:962][240]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:979][241]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.54:996][242]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:012][243]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:029][244]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:046][245]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:063][246]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:080][247]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:097][248]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:113][249]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:130][250]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:146][251]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:163][252]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:180][253]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:196][254]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:212][255]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:230][256]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:246][257]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:263][258]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:279][259]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:296][260]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:313][261]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:329][262]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:346][263]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:363][264]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:379][265]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:396][266]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:413][267]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:431][268]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:432][268]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:454][269]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:470][270]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:487][271]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:504][272]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:505][272]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:520][273]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:537][274]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:554][275]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:570][276]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:587][277]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:604][278]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:620][279]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:637][280]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:653][281]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:670][282]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:687][283]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:703][284]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:721][285]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:737][286]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:753][287]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:770][288]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:786][289]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:803][290]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:820][291]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:836][292]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:854][293]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:870][294]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:887][295]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:904][296]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:920][297]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:937][298]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:953][299]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:969][300]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.55:986][301]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:004][302]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:021][303]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:036][304]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:054][305]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:070][306]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:087][307]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:103][308]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:120][309]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:137][310]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:153][311]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:170][312]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:187][313]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:203][314]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:220][315]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:236][316]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:253][317]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:270][318]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:286][319]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:303][320]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:320][321]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:336][322]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:353][323]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:370][324]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:387][325]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:404][326]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:420][327]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:437][328]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:454][329]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:471][330]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:486][331]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:503][332]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.56:503][332]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.56:525][332]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:548][333]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:548][333]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:591][334]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:615][335]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:643][336]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:668][337]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:685][338]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:710][339]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:730][340]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:756][341]LogGeomTools: Triangulation of poly failed.
+[2023.05.21-20.24.56:785][342]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.56:785][342]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.57:013][349]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.57:013][349]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.57:649][387]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.57:649][387]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.24.58:439][434]Cmd: TRANSACTION UNDO
+[2023.05.21-20.24.58:439][434]LogEditorTransaction: Undo Add Vertex to Polygon
+[2023.05.21-20.29.25:972][431]Cmd: MODE GRID=0
+[2023.05.21-20.29.31:437][756]Cmd: MODE GRID=1
+[2023.05.21-20.31.49:375][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/TileSet_Floor" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileSet_Floor.uasset" SILENT=true
+[2023.05.21-20.31.49:380][997]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.004962 seconds
+[2023.05.21-20.31.49:388][997]LogSavePackage: Moving output files for package: /Game/Floor/TileSet_Floor
+[2023.05.21-20.31.49:388][997]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/TileSet_FloorCBD8E7304BF24E1FDD942CB98E8CA6DF.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileSet_Floor.uasset'
+[2023.05.21-20.31.49:397][997]AssetCheck: New page: Asset Save: TileSet_Floor
+[2023.05.21-20.31.49:397][997]LogContentValidation: Display: Validating PaperTileSet /Game/Floor/TileSet_Floor.TileSet_Floor
+[2023.05.21-20.31.59:048][555]LogContentBrowser: Deferred new asset file creation: TileSet_FloorMap
+[2023.05.21-20.31.59:054][555]LogContentBrowser: Creating deferred item: TileSet_FloorMap
+[2023.05.21-20.31.59:067][556]LogContentBrowser: Renaming the item being created (Deferred Item: TileSet_FloorMap).
+[2023.05.21-20.32.19:091][737]LogContentBrowser: Attempting asset rename: TileSet_FloorMap -> TileMap_Floor
+[2023.05.21-20.32.19:093][737]LogContentBrowser: End creating deferred item TileSet_FloorMap
+[2023.05.21-20.32.20:782][837]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.32.20:783][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-20.32.20:867][837]LogViewport: Scene viewport resized to 285x429, mode Windowed.
+[2023.05.21-20.32.20:882][837]LogViewport: Scene viewport resized to 799x569, mode Windowed.
+[2023.05.21-20.32.22:389][914]LogViewport: Scene viewport resized to 284x459, mode Windowed.
+[2023.05.21-20.32.22:405][914]LogViewport: Scene viewport resized to 796x599, mode Windowed.
+[2023.05.21-20.32.22:489][916]LogViewport: Scene viewport resized to 163x167, mode Windowed.
+[2023.05.21-20.32.22:502][916]LogViewport: Scene viewport resized to 475x307, mode Windowed.
+[2023.05.21-20.32.22:572][920]LogViewport: Scene viewport resized to 423x718, mode Windowed.
+[2023.05.21-20.32.22:585][920]LogViewport: Scene viewport resized to 1168x858, mode Windowed.
+[2023.05.21-20.32.22:995][943]LogSlate: Window 'TileMap_Floor*' being destroyed
+[2023.05.21-20.33.19:644][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/TileMap_Floor" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMap_Floor.uasset" SILENT=true
+[2023.05.21-20.33.19:648][334]LogSavePackage: Moving output files for package: /Game/Floor/TileMap_Floor
+[2023.05.21-20.33.19:648][334]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/TileMap_Floor9EEE394745B8A717BFC15199B94DA1D0.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMap_Floor.uasset'
+[2023.05.21-20.33.19:657][334]AssetCheck: New page: Asset Save: TileMap_Floor
+[2023.05.21-20.33.19:657][334]LogContentValidation: Display: Validating PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.33.47:039][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.21-20.33.47:040][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.014
+[2023.05.21-20.33.47:040][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Floor/Tileset] ([1] browsable assets)...
+[2023.05.21-20.33.47:043][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Floor/Tileset.Tileset]
+[2023.05.21-20.33.47:043][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Floor/Tileset]
+[2023.05.21-20.33.47:043][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/Tileset" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Autosaves/Game/Floor/Tileset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.05.21-20.33.47:045][553]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Floor/Tileset_Auto1
+[2023.05.21-20.33.47:046][553]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Tileset_Auto1A354695B477740297A6A0D91F85F9052.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Autosaves/Game/Floor/Tileset_Auto1.uasset'
+[2023.05.21-20.33.47:046][553]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.05.21-20.34.43:793][ 94]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.21-20.34.43:802][ 94]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.21-20.34.43:812][ 95]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.21-20.34.53:747][682]LogContentBrowser: Attempting asset rename: NewFolder -> TileMaps
+[2023.05.21-20.34.53:748][682]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.21-20.34.59:595][ 29]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.34.59:595][ 29]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.34.59:596][ 29]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor as actor: PaperTileMapActor /Temp/Untitled_1.Untitled_1:PersistentLevel.PaperTileMapActor_0
+[2023.05.21-20.34.59:596][ 29]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor as actor: PaperTileMapActor /Temp/Untitled_1.Untitled_1:PersistentLevel.PaperTileMapActor_0
+[2023.05.21-20.35.01:501][142]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.35.01:501][142]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.35.01:503][142]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor as actor: PaperTileMapActor /Temp/Untitled_1.Untitled_1:PersistentLevel.PaperTileMapActor_UAID_70B5E8A7A438AD8401_1990013999
+[2023.05.21-20.35.01:503][142]LogActorFactory: Actor Factory spawned PaperTileMap /Game/Floor/TileMap_Floor.TileMap_Floor as actor: PaperTileMapActor /Temp/Untitled_1.Untitled_1:PersistentLevel.PaperTileMapActor_UAID_70B5E8A7A438AD8401_1990013999
+[2023.05.21-20.35.02:059][171]Cmd: TRANSACTION UNDO
+[2023.05.21-20.35.02:059][171]LogEditorTransaction: Undo Create Actors
+[2023.05.21-20.35.05:775][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/TileMaps/TileMap_Floor" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/TileMap_Floor.uasset" SILENT=true
+[2023.05.21-20.35.05:779][366]LogSavePackage: Moving output files for package: /Game/Floor/TileMaps/TileMap_Floor
+[2023.05.21-20.35.05:779][366]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/TileMap_Floor6EE262C245EE6FD70BC744B7FB36D1F0.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/TileMap_Floor.uasset'
+[2023.05.21-20.35.05:800][366]LogWorldPartition: Warning: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.PaperTileMapActor_UAID_70B5E8A7A438AD8401_1990013999 is unreachable without properly detaching object /Temp/__ExternalActors__/Untitled_1/6/U6/SOF72TDI4SVGD51XDOZ2D9.PackageMetaData in its package
+[2023.05.21-20.35.05:801][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.21-20.35.05:809][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.21-20.35.05:816][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.21-20.35.05:835][366]AssetCheck: New page: Asset Save: TileMap_Floor
+[2023.05.21-20.35.05:835][366]LogContentValidation: Display: Validating PaperTileMap /Game/Floor/TileMaps/TileMap_Floor.TileMap_Floor
+[2023.05.21-20.35.06:378][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.21-20.36.38:763][898]LogContentBrowser: Attempting asset rename: TileMap_Floor -> Platform_4L
+[2023.05.21-20.36.38:856][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/TileMaps/Platform_4L" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/Platform_4L.uasset" SILENT=true
+[2023.05.21-20.36.38:860][898]LogSavePackage: Moving output files for package: /Game/Floor/TileMaps/Platform_4L
+[2023.05.21-20.36.38:860][898]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Platform_4L3C079FDB4448665B7936CBA578E97C19.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/Platform_4L.uasset'
+[2023.05.21-20.36.38:879][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.21-20.36.38:887][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.21-20.36.38:895][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.21-20.36.38:899][898]AssetCheck: New page: Asset Save: Platform_4L
+[2023.05.21-20.36.38:899][898]LogContentValidation: Display: Validating PaperTileMap /Game/Floor/TileMaps/Platform_4L.Platform_4L
+[2023.05.21-20.36.53:475][586]LogContentBrowser: Attempting asset rename: Platform_4L_2 -> Platform_2L
+[2023.05.21-20.36.53:580][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/TileMaps/Platform_2L" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/Platform_2L.uasset" SILENT=true
+[2023.05.21-20.36.53:584][586]LogSavePackage: Moving output files for package: /Game/Floor/TileMaps/Platform_2L
+[2023.05.21-20.36.53:584][586]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Platform_2L308B85B8479781E0C4A0FE8B978EF999.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/Platform_2L.uasset'
+[2023.05.21-20.36.53:604][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.21-20.36.53:612][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.21-20.36.53:619][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.21-20.36.53:622][586]AssetCheck: New page: Asset Save: Platform_2L
+[2023.05.21-20.36.53:622][586]LogContentValidation: Display: Validating PaperTileMap /Game/Floor/TileMaps/Platform_2L.Platform_2L
+[2023.05.21-20.36.55:052][657]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Floor/TileMaps/Platform_2L.Platform_2L
+[2023.05.21-20.36.55:053][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-20.36.55:115][657]LogViewport: Scene viewport resized to 423x718, mode Windowed.
+[2023.05.21-20.36.55:134][657]LogViewport: Scene viewport resized to 1168x858, mode Windowed.
+[2023.05.21-20.37.22:989][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor/TileMaps/Platform_2L" FILE="../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/Platform_2L.uasset" SILENT=true
+[2023.05.21-20.37.22:991][321]LogSavePackage: Moving output files for package: /Game/Floor/TileMaps/Platform_2L
+[2023.05.21-20.37.22:991][321]LogSavePackage: Moving '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Saved/Platform_2L8C2965D946322C4822034DBDCBD2B973.tmp' to '../../../../../../Users/Yosef/OneDrive/Documents/GitHub/Project2D/Content/Floor/TileMaps/Platform_2L.uasset'
+[2023.05.21-20.37.23:000][321]AssetCheck: New page: Asset Save: Platform_2L
+[2023.05.21-20.37.23:000][321]LogContentValidation: Display: Validating PaperTileMap /Game/Floor/TileMaps/Platform_2L.Platform_2L
+[2023.05.21-20.37.26:489][529]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-20.37.26:489][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.21-20.37.28:206][529]LogWindows: Error: === Critical error: ===
+[2023.05.21-20.37.28:206][529]LogWindows: Error: 
+[2023.05.21-20.37.28:206][529]LogWindows: Error: Fatal error!
+[2023.05.21-20.37.28:206][529]LogWindows: Error: 
+[2023.05.21-20.37.28:206][529]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000148
+[2023.05.21-20.37.28:206][529]LogWindows: Error: 
+[2023.05.21-20.37.28:206][529]LogWindows: Error: [Callstack] 0x00007ffe18b38570 UnrealEditor-Chaos.dll!UnknownFunction []
+[2023.05.21-20.37.28:206][529]LogWindows: Error: [Callstack] 0x00007ffe1a863547 UnrealEditor-PhysicsCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:206][529]LogWindows: Error: [Callstack] 0x00007ffe1a862fa5 UnrealEditor-PhysicsCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:206][529]LogWindows: Error: [Callstack] 0x00007ffe1f7f5dde UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.21-20.37.28:206][529]LogWindows: Error: [Callstack] 0x00007ffe1ed76cd0 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1ecd5170 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1ecd9ddc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1ed29ca1 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffdfa8d0d13 UnrealEditor-Paper2DEditor.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1c1bbc30 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1c1a03fa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1bca60a6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1c1fd838 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffdfa87cab3 UnrealEditor-Paper2DEditor.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1bca60a6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1c826d85 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7dc4ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2c1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7dc4ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2c1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7e0687 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1de58b9a UnrealEditor-Slate.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1de4ffc2 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7e0607 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7dc4ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2c1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7e0687 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d8bbdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7d2a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1de4ebea UnrealEditor-Slate.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1d7c97f4 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1de10364 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.05.21-20.37.28:207][529]LogWindows: Error: [Callstack] 0x00007ffe1ddf91b1 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffe1dded5dc UnrealEditor-Slate.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffeaceea92e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffeaced9247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffeaceece51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffeaced49a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffec2ffe858 USER32.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffec2ffe4ee USER32.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffe9c6e7e59 InkObj.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffea44c1028 atlthunk.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffec2ffe858 USER32.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffec2ffe299 USER32.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffeaceee148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ff725227114 UnrealEditor.exe!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ff725240d9c UnrealEditor.exe!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ff725240e8a UnrealEditor.exe!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ff725243c4d UnrealEditor.exe!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ff725255564 UnrealEditor.exe!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ff725258736 UnrealEditor.exe!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffec2c27614 KERNEL32.DLL!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: [Callstack] 0x00007ffec40026a1 ntdll.dll!UnknownFunction []
+[2023.05.21-20.37.28:208][529]LogWindows: Error: 
+[2023.05.21-20.37.28:211][529]LogExit: Executing StaticShutdownAfterError
+[2023.05.21-20.37.28:213][529]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.05.21-20.37.28:213][529]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.05.21-20.37.28:213][529]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.21-20.37.28:220][529]Log file closed, 05/21/23 13:37:28
